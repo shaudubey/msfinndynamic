@@ -7,4 +7,5 @@ Microsoft Finance Time Series Forecasting Framework (FinnTS) is a forecasting pa
 The R package ForecastComb presents functions to pool individual model forecasts using geometric- and regression-based forecast combination methods. ForecastComb combines the functionality of the packages ForecastCombinations and GeomComb under a unified user interface and convenience functions.
 
 For more information on FINN: https://github.com/microsoft/finnts
+
 For more information on ForecastComb: https://www.rdocumentation.org/packages/ForecastComb/versions/1.3.1
